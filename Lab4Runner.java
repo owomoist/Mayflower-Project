@@ -1,6 +1,6 @@
 import mayflower.*;
 
-public class Lab4Runner 
+public class ProjectRunner 
 {
     public static void main(String[] args) 
     {
